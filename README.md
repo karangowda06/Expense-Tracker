@@ -30,8 +30,35 @@ You can view the live demo of the project by visiting the deployed URL [Expense 
 ## Installation & Setup
 
 To run the **Expense Tracker** app locally on your machine, follow these steps:
+2. Navigate to the project folder
+`cd expense-tracker`
 
+3. Open the index.html file
+Open the index.html file in your browser (Chrome, Firefox, etc.)
+
+The app should now be running on your local machine!
+
+Usage
+Add a Transaction:
+
+Enter the amount, description, and select whether it's an Income or Expense.
+
+Click "Add" to save the transaction. It will show up in the transaction history.
+
+Set a Budget:
+
+Enter the amount for your budget and click Set Budget.
+
+The app will show your current budget along with your total income and expenses.
+
+View Transaction History:
+
+All your past transactions will be listed with the option to delete them.
+
+Track Income, Expenses, and Balance:
+
+The app will show your total income, expenses, and the balance after considering both.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/karangowda06/Expense-Tracker.git
