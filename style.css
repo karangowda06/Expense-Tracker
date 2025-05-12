@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #4CAF50;
+    margin-bottom: 30px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+#transactionList {
+    max-height: 200px;
+    overflow-y: scroll;
+}
+
+.list-group-item {
+    font-size: 14px;
+}
+
+button {
+    cursor: pointer;
+}
