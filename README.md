@@ -25,9 +25,7 @@ You can view the live demo of the project by visiting the deployed URL [Expense 
 
 ## Screenshots
 
-![Expense Tracker Screenshot](https://via.placeholder.com/800x400?text=Screenshot+of+Expense+Tracker)
-
-> Note: Replace the above placeholder image with a screenshot of your app.
+![Expense Tracker Screenshot](expense-tracker.jpeg)
 
 ## Installation & Setup
 
