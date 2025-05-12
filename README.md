@@ -21,7 +21,7 @@ A simple and easy-to-use web-based **Expense Tracker** built with **HTML**, **CS
 
 ## Demo
 
-You can view the live demo of the project by visiting the deployed URL ([Vercel](https://expense-tracker-nu-lac.vercel.app/)).
+You can view the live demo of the project by visiting the deployed URL [Expense Tracker](https://expense-tracker-nu-lac.vercel.app/).
 
 ## Screenshots
 
